@@ -1,5 +1,5 @@
-import {LitElement, html, css} from 'lit';
-import {TWStyles} from '../output.js'
+import {LitElement, html, css} from "lit";
+import {TWStyles} from "../output.js";
 
 export class MenuPage extends LitElement {
 
